@@ -2,5 +2,5 @@
 </script>
 
 <template>
-<div>hello</div>
+<div>hello not from world</div>
 </template>
