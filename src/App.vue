@@ -9,4 +9,7 @@ import { RouterLink, RouterView } from 'vue-router'
 </template>
 
 <style scoped>
+div{  
+  height: 100px;
+}
 </style>
