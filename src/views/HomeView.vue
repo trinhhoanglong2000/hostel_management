@@ -2,5 +2,5 @@
 </script>
 
 <template>
-<div>hello World from master branch</div>
+<div>hello World from test</div>
 </template>
