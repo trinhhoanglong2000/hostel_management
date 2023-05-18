@@ -2,5 +2,5 @@
 </script>
 
 <template>
-<div>hello World from master branch 123</div>
+<div>hello World from master branch merged</div>
 </template>
